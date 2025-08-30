@@ -1,4 +1,13 @@
 {
-  "badge": "Verified SomaliSTEM Tutor",
-  "fields": ["name", "subject", "date", "status"]
+  "badge_name": "Verified SomaliSTEM Badge",
+  "fields": {
+    "name": "Full name of the person",
+    "badge_type": "Tutor | Mentor | Learner | Sponsor",
+    "subject_or_field": "Math, Coding, Data Science, etc.",
+    "issue_date": "YYYY-MM-DD",
+    "status": "Valid | Revoked",
+    "qr_url": "https://somalistem.com/verify?code=XYZ123",
+    "verify_url": "https://somalistem.learn/verify/XYZ123"
+  },
+  "notes": "MVP uses Google Sheet + QR, later can hash on-chain"
 }
