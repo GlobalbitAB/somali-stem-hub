@@ -1,0 +1,4 @@
+{
+  "badge": "Verified SomaliSTEM Tutor",
+  "fields": ["name", "subject", "date", "status"]
+}
