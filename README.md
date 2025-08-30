@@ -21,6 +21,12 @@
 4. Dominate SEO + community engagement with blogs, STEM challenges, and diaspora content.  
 
 ---
+---
+
+## Google Drive
+Centralized folder for SomaliSTEM assets, drafts, and badge templates:  
+👉 [Open SomaliSTEM Google Drive](https://drive.google.com/drive/folders/1rGloeWYbOSAGx3yHq6-lPcMihEP6BItt?usp=drive_link)
+
 
 ## License
 MIT License — open for community contribution.
