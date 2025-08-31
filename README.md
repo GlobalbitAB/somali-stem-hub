@@ -27,6 +27,7 @@
 Centralized folder for SomaliSTEM assets, drafts, and badge templates:  
 👉 [Open SomaliSTEM Google Drive](https://drive.google.com/drive/folders/1rGloeWYbOSAGx3yHq6-lPcMihEP6BItt?usp=drive_link)
 
+📄 [Download Sponsor Summary (PDF)](docs/SomaliSTEM_Sponsor_Summary_Refined.pdf)
 
 ## License
 MIT License — open for community contribution.
