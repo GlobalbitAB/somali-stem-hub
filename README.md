@@ -18,7 +18,20 @@
 1. Provide a trusted, verified platform for Somali STEM tutors & mentors.  
 2. Issue **digital badges** via SomaliSTEM.learn (proof-of-learning & trust).  
 3. Create sustainable monetization (badges, tutor listings, sponsors).  
-4. Dominate SEO + community engagement with blogs, STEM challenges, and diaspora content.  
+4. Dominate SEO + community engagement with blogs, STEM challenges, and diaspora content.
+
+## 🤝 For Sponsors
+
+We welcome partnerships and sponsorships to support SomaliSTEM’s mission of empowering learners, tutors, and mentors worldwide.  
+
+📄 [Download Sponsor Summary (PDF)](docs/SomaliSTEM_Sponsor_Summary_Refined.pdf)  
+📘 [SomaliSTEM Brand Guidelines (PDF)](docs/SomaliSTEM_Brand_Guidelines.pdf)  
+
+By sponsoring SomaliSTEM, you help:  
+- Fund scholarships for Somali youth in STEM  
+- Support verified tutors & diaspora mentors  
+- Build a global Somali STEM community  
+
 
 ### 📘 Branding
 - [SomaliSTEM Brand Guidelines (PDF)](docs/SomaliSTEM_Brand_Guidelines.pdf)
