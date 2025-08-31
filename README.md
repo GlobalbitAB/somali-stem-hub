@@ -20,6 +20,8 @@
 3. Create sustainable monetization (badges, tutor listings, sponsors).  
 4. Dominate SEO + community engagement with blogs, STEM challenges, and diaspora content.  
 
+### 📘 Branding
+- [SomaliSTEM Brand Guidelines (PDF)](docs/SomaliSTEM_Brand_Guidelines.pdf)
 ---
 ---
 
