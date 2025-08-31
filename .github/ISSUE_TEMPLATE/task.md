@@ -1,6 +1,6 @@
 ---
-name: Task
-about: Track a task
+name: Task / To-do
+about: Track a specific task or action item
 labels: task
 ---
 
